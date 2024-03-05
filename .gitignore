@@ -1,0 +1,7 @@
+.Lib
+.Scripts
+.Include
+Lib\
+Scripts\
+Include\
+pyvenv.cfg
