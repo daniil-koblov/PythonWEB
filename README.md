@@ -41,10 +41,11 @@
 у пользователя количество рядов.
 Пример результата:
 Сколько рядов у ёлки? 5
-
+![seminar_1_task_8](https://github.com/daniil-koblov/PythonWEB/blob/main/immersion_in_python/image/seminars/seminar_1/seminar_1_task_8.png)
 
 * Задание 9. *main.py*:
 Выведите в консоль таблицу умножения от 2х2 до 9х10 как на школьной тетрадке.
+![seminar_1_task_9](https://github.com/daniil-koblov/PythonWEB/blob/main/immersion_in_python/image/seminars/seminar_1/seminar_1_task_9.png)
 
 #### Практические задания. Директория *home_works\homework_1*
 
