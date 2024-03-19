@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a6863f-1368-4a43-9c78-16761f67e7ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/seminars/seminar_5/task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_5/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_5/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_5/task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +38,7 @@
     "Python.task_oneline_10.executor": "Run",
     "Python.task_oneline_3.executor": "Run",
     "Python.task_oneline_4.executor": "Run",
+    "Python.task_oneline_5.executor": "Run",
     "Python.task_yield_1.executor": "Run",
     "Python.task_yield_2.executor": "Run",
     "Python.task_yield_3.executor": "Run",
