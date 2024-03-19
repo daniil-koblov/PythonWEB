@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0fe260d-cb58-4e93-889e-8a0f2c1ed657" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_3/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_3/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_3/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/immersion_in_python/venv/home_works/homework_3/task_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dEXOPlKt3knqCI3tSuX2YrwK8X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.check_year.executor": "Run",
+    "Python.fifth_task_if.executor": "Run",
+    "Python.fir.executor": "Run",
+    "Python.first_task.executor": "Run",
+    "Python.first_task_if.executor": "Run",
+    "Python.fourth_task_if.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.ninth_task_if.executor": "Run",
+    "Python.num_info.executor": "Run",
+    "Python.second_task_if.executor": "Run",
+    "Python.table_multiplication.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "Python.task_atr_1.executor": "Run",
+    "Python.task_atr_2.executor": "Run",
+    "Python.task_atr_3.executor": "Run",
+    "Python.task_atr_4.executor": "Run",
+    "Python.task_builtins_1.executor": "Run",
+    "Python.task_builtins_10.executor": "Run",
+    "Python.task_builtins_11.executor": "Run",
+    "Python.task_builtins_12.executor": "Run",
+    "Python.task_builtins_3.executor": "Run",
+    "Python.task_builtins_4.executor": "Run",
+    "Python.task_builtins_6.executor": "Run",
+    "Python.task_builtins_9.executor": "Run",
+    "Python.task_bytes_1.executor": "Run",
+    "Python.task_bytes_2.executor": "Run",
+    "Python.task_def_1.executor": "Run",
+    "Python.task_def_11.executor": "Run",
+    "Python.task_def_12.executor": "Run",
+    "Python.task_def_15.executor": "Run",
+    "Python.task_def_16.executor": "Run",
+    "Python.task_def_17.executor": "Run",
+    "Python.task_def_18.executor": "Run",
+    "Python.task_def_19.executor": "Run",
+    "Python.task_def_2.executor": "Run",
+    "Python.task_def_20.executor": "Run",
+    "Python.task_def_22.executor": "Run",
+    "Python.task_def_3.executor": "Run",
+    "Python.task_def_4.executor": "Run",
+    "Python.task_def_5.executor": "Run",
+    "Python.task_def_6.executor": "Run",
+    "Python.task_def_7.executor": "Run",
+    "Python.task_def_8.executor": "Run",
+    "Python.task_def_9.executor": "Run",
+    "Python.task_dict_1.executor": "Run",
+    "Python.task_dict_10.executor": "Run",
+    "Python.task_dict_11.executor": "Run",
+    "Python.task_dict_2.executor": "Run",
+    "Python.task_dict_3.executor": "Run",
+    "Python.task_dict_4.executor": "Run",
+    "Python.task_dict_5.executor": "Run",
+    "Python.task_dict_6.executor": "Run",
+    "Python.task_dict_7.executor": "Run",
+    "Python.task_dict_8.executor": "Run",
+    "Python.task_dict_9.executor": "Run",
+    "Python.task_dig_1.executor": "Run",
+    "Python.task_dig_2.executor": "Run",
+    "Python.task_dig_3.executor": "Run",
+    "Python.task_dig_4.executor": "Run",
+    "Python.task_dig_5.executor": "Run",
+    "Python.task_dig_6.executor": "Run",
+    "Python.task_dig_7.executor": "Run",
+    "Python.task_dig_8.executor": "Run",
+    "Python.task_list_10.executor": "Run",
+    "Python.task_list_11.executor": "Run",
+    "Python.task_list_12.executor": "Run",
+    "Python.task_list_13.executor": "Run",
+    "Python.task_list_14.executor": "Run",
+    "Python.task_list_15.executor": "Run",
+    "Python.task_list_16.executor": "Run",
+    "Python.task_list_17.executor": "Run",
+    "Python.task_list_18.executor": "Run",
+    "Python.task_list_3.executor": "Run",
+    "Python.task_list_4.executor": "Run",
+    "Python.task_list_5.executor": "Run",
+    "Python.task_list_6.executor": "Run",
+    "Python.task_list_7.executor": "Run",
+    "Python.task_list_8.executor": "Run",
+    "Python.task_list_9.executor": "Run",
+    "Python.task_loop_1.executor": "Run",
+    "Python.task_loop_2.executor": "Run",
+    "Python.task_loop_4.executor": "Run",
+    "Python.task_loop_5.executor": "Run",
+    "Python.task_loop_6.executor": "Run",
+    "Python.task_loop_7.executor": "Run",
+    "Python.task_math_2.executor": "Run",
+    "Python.task_math_3.executor": "Run",
+    "Python.task_math_4.executor": "Run",
+    "Python.task_math_5.executor": "Run",
+    "Python.task_mut_1.executor": "Run",
+    "Python.task_mut_2.executor": "Run",
+    "Python.task_mut_3.executor": "Run",
+    "Python.task_self_1.executor": "Run",
+    "Python.task_set_1.executor": "Run",
+    "Python.task_set_2.executor": "Run",
+    "Python.task_set_3.executor": "Run",
+    "Python.task_set_4.executor": "Run",
+    "Python.task_set_5.executor": "Run",
+    "Python.task_set_6.executor": "Run",
+    "Python.task_set_7.executor": "Run",
+    "Python.task_set_8.executor": "Run",
+    "Python.task_str_1.executor": "Run",
+    "Python.task_str_10.executor": "Run",
+    "Python.task_str_11.executor": "Run",
+    "Python.task_str_2.executor": "Run",
+    "Python.task_str_3.executor": "Run",
+    "Python.task_str_4.executor": "Run",
+    "Python.task_str_5.executor": "Run",
+    "Python.task_str_6.executor": "Run",
+    "Python.task_str_7.executor": "Run",
+    "Python.task_str_8.executor": "Run",
+    "Python.task_str_9.executor": "Run",
+    "Python.task_type_1.executor": "Run",
+    "Python.task_type_2.executor": "Run",
+    "Python.task_type_3.executor": "Run",
+    "Python.task_type_4.executor": "Run",
+    "Python.task_type_5.executor": "Run",
+    "Python.task_typing_1.executor": "Run",
+    "Python.task_typing_2.executor": "Run",
+    "Python.third_task_if.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "C:/Users/User/Desktop/programming lessons/PythonWEB",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\programming lessons\PythonWEB\immersion_in_python\venv" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0fe260d-cb58-4e93-889e-8a0f2c1ed657" name="Changes" comment="" />
+      <created>1709574179909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709574179909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
