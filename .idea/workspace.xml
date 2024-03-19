@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5a6863f-1368-4a43-9c78-16761f67e7ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonWEB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/mydata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_generator_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_iterator_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_iterator_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_iterator_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_iterator_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_oneline_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_yield_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_yield_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/immersion_in_python/venv/lectures/lecture_5/task_yield_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_generator_2.executor": "Run",
+    "Python.task_generator_4.executor": "Run",
+    "Python.task_generator_7.executor": "Run",
+    "Python.task_generator_8.executor": "Run",
+    "Python.task_iterator_4.executor": "Run",
+    "Python.task_oneline_1.executor": "Run",
+    "Python.task_oneline_10.executor": "Run",
+    "Python.task_oneline_3.executor": "Run",
+    "Python.task_oneline_4.executor": "Run",
+    "Python.task_yield_1.executor": "Run",
+    "Python.task_yield_2.executor": "Run",
+    "Python.task_yield_3.executor": "Run",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
