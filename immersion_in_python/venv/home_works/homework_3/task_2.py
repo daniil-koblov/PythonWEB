@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 text = 'Hello world. Hello Python. Hello again. 3'
+=======
+# text = 'Hello world. Hello Python. Hello again. 3'
+>>>>>>> 2bc4275b477304e1845ee9b35b0c4ef72469f06b
 
 #  Решение
 
