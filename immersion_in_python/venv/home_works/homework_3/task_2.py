@@ -1,4 +1,4 @@
-# text = 'Hello world. Hello Python. Hello again. 3'
+text = 'Hello world. Hello Python. Hello again. 3'
 
 #  Решение
 

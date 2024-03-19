@@ -15,7 +15,7 @@ for item in items:
     weight_backpack += items[item]
     if weight_backpack <= max_weight:
         backpack[item] = items[item]
-
+print(backpack)
 #  Эталонное решение
 
 backpack = {}
